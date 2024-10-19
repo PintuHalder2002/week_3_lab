@@ -51,8 +51,8 @@ def student_course_sum(Student_id):
     <h1>Student Details</h1>
         <table border="1" cellpadding="5" cellspacing="0">
             <tr>
-                <th>Student id</th>
-                <th>Course id</th>
+                <th>Student ID</th>
+                <th>Course ID</th>
                 <th>Marks</th>
             </tr>
 
