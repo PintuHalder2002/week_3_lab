@@ -15,7 +15,7 @@ data = df.to_dict(orient = "records")
 student=[]
 for x in data:
     student.append(str(x["Student id"]))
-
+#
 
 course=[]
 for x in data:
