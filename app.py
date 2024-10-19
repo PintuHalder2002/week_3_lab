@@ -119,7 +119,7 @@ def course_average_max(Course_id):
     <h1>Course Details</h1>
         <table border="1" cellpadding="5" cellspacing="0">
             <tr>
-                <th>Average marks</th>
+                <th>Average Marks</th>
                 <th>Maximum Marks</th>
             </tr>
 
